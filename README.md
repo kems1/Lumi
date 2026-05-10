@@ -1,0 +1,2 @@
+# Lumi
+First Claude Project
